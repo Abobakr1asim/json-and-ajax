@@ -1,0 +1,9 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url(../img/fork-play1.jpg);
+    font-size: 20px;
+    font-family: Arial,Georgia;
+}
+
